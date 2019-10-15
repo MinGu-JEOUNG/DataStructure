@@ -1,6 +1,6 @@
 # DataStructure
 
-## Dynamic Array 
+## Dynamic Array (김주원) 코드 수정 필요
 ### 메모리 예약
 #### void reserve(const int& len);
 - 길이 len의 int형 배열 메모리 공간을 확보한다.
